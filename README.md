@@ -8,4 +8,4 @@ It's easy to play by using computer.
 
 It Supported touch playing.
 
-To Visit website : 
+To Visit website : https://mohamed6061.github.io/Simple-Game-Website/
