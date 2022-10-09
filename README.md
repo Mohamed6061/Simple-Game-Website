@@ -6,6 +6,6 @@ It contains two games (Snake Game & XO Game)
 
 It's easy to play by using computer.
 
-It Supported touch playing.
+It isn't Supported touch playing.
 
 To Visit website : https://mohamed6061.github.io/Simple-Game-Website/
