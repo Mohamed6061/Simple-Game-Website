@@ -1,1 +1,11 @@
 # Simple-Game-Website
+
+Created by using Html & Css & JavaScript
+
+It contains two games (Snake Game & XO Game) 
+
+It's easy to play by using computer.
+
+It Supported touch playing.
+
+To Visit website : 
